@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/Portal-Noticias/static/js/app.5f83bbd7.chunk.js",
+    "app.js.map": "/Portal-Noticias/static/js/app.5f83bbd7.chunk.js.map",
+    "runtime~app.js": "/Portal-Noticias/static/js/runtime~app.38c2b352.js",
+    "runtime~app.js.map": "/Portal-Noticias/static/js/runtime~app.38c2b352.js.map",
+    "static/js/2.a7fc218f.chunk.js": "/Portal-Noticias/static/js/2.a7fc218f.chunk.js",
+    "static/js/2.a7fc218f.chunk.js.map": "/Portal-Noticias/static/js/2.a7fc218f.chunk.js.map",
+    "favicon-16.png": "/Portal-Noticias/favicon-16.png",
+    "favicon-32.png": "/Portal-Noticias/favicon-32.png",
+    "favicon.ico": "/Portal-Noticias/favicon.ico",
+    "index.html": "/Portal-Noticias/index.html",
+    "manifest.json": "/Portal-Noticias/manifest.json",
+    "serve.json": "/Portal-Noticias/serve.json",
+    "static/js/2.a7fc218f.chunk.js.LICENSE.txt": "/Portal-Noticias/static/js/2.a7fc218f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.38c2b352.js",
+    "static/js/2.a7fc218f.chunk.js",
+    "static/js/app.5f83bbd7.chunk.js"
+  ]
+}
